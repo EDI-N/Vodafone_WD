@@ -11,7 +11,7 @@
     max-width: 1200px !important;
 }
    
-   .wy-side-nav-search {background-color: #e60000d5}
+   .wy-side-nav-search {background-color: #e60000}
 
    .wy-table-responsive {
       overflow: visible !important;
@@ -20,7 +20,7 @@
 
   /* Navigation headers */ 
    .wy-menu-vertical header,
-   .wy-menu-vertical p.caption {color: #e60000d5}
+   .wy-menu-vertical p.caption {color: #e60000}
 
 
 /* Colors and text decoration.
