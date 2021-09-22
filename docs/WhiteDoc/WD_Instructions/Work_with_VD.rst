@@ -3,81 +3,81 @@
 
 .. сюда закину немного картинок для текста
 
-.. |олівець| image:: pics_Work_with_WD/Work_with_WD_014.png
+.. |олівець| image:: pics_Work_with_VD/Work_with_VD_014.png
 
-.. |dashboard| image:: pics_Work_with_WD/Work_with_WD_009.png
+.. |dashboard| image:: pics_Work_with_VD/Work_with_VD_009.png
 
-.. |mailbox| image:: pics_Work_with_WD/Work_with_WD_008.png
+.. |mailbox| image:: pics_Work_with_VD/Work_with_VD_008.png
 
-.. |template| image:: pics_Work_with_WD/Work_with_WD_007.png
+.. |template| image:: pics_Work_with_VD/Work_with_VD_007.png
 
-.. |scenario| image:: pics_Work_with_WD/Work_with_WD_006.png
+.. |scenario| image:: pics_Work_with_VD/Work_with_VD_006.png
 
-.. |dictionary| image:: pics_Work_with_WD/Work_with_WD_005.png
+.. |dictionary| image:: pics_Work_with_VD/Work_with_VD_005.png
 
-.. |contacts| image:: pics_Work_with_WD/Work_with_WD_004.png
+.. |contacts| image:: pics_Work_with_VD/Work_with_VD_004.png
 
-.. |мусорка| image:: pics_Work_with_WD/Work_with_WD_022.png
+.. |мусорка| image:: pics_Work_with_VD/Work_with_VD_022.png
 
-.. |трикрапка| image:: pics_Work_with_WD/Work_with_WD_032.png
+.. |трикрапка| image:: pics_Work_with_VD/Work_with_VD_032.png
 
-.. |structed| image:: pics_Work_with_WD/Work_with_WD_039.png
+.. |structed| image:: pics_Work_with_VD/Work_with_VD_039.png
 
-.. |external| image:: pics_Work_with_WD/Work_with_WD_038.png
+.. |external| image:: pics_Work_with_VD/Work_with_VD_038.png
 
-.. |трикрапкаВ| image:: pics_Work_with_WD/Work_with_WD_041.png
+.. |трикрапкаВ| image:: pics_Work_with_VD/Work_with_VD_041.png
 
-.. |hide| image:: pics_Work_with_WD/Work_with_WD_045.png
+.. |hide| image:: pics_Work_with_VD/Work_with_VD_045.png
 
-.. |show| image:: pics_Work_with_WD/Work_with_WD_046.png
+.. |show| image:: pics_Work_with_VD/Work_with_VD_046.png
 
-.. |галочка| image:: pics_Work_with_WD/Work_with_WD_053.png
+.. |галочка| image:: pics_Work_with_VD/Work_with_VD_053.png
 
-.. |хрестик| image:: pics_Work_with_WD/Work_with_WD_054.png
+.. |хрестик| image:: pics_Work_with_VD/Work_with_VD_054.png
 
-.. |toggleON| image:: pics_Work_with_WD/Work_with_WD_057.png
+.. |toggleON| image:: pics_Work_with_VD/Work_with_VD_057.png
 
-.. |toggleOFF| image:: pics_Work_with_WD/Work_with_WD_056.png
+.. |toggleOFF| image:: pics_Work_with_VD/Work_with_VD_056.png
 
-.. |pencil| image:: pics_Work_with_WD/Work_with_WD_064.png
+.. |pencil| image:: pics_Work_with_VD/Work_with_VD_064.png
 
-.. |download| image:: pics_Work_with_WD/Work_with_WD_065.png
+.. |download| image:: pics_Work_with_VD/Work_with_VD_065.png
 
-.. |trash| image:: pics_Work_with_WD/Work_with_WD_066.png
+.. |trash| image:: pics_Work_with_VD/Work_with_VD_066.png
 
-.. |галочка2| image:: pics_Work_with_WD/Work_with_WD_085.png
+.. |галочка2| image:: pics_Work_with_VD/Work_with_VD_085.png
 
-.. |хрестик2| image:: pics_Work_with_WD/Work_with_WD_086.png
+.. |хрестик2| image:: pics_Work_with_VD/Work_with_VD_086.png
 
-.. |copy| image:: pics_Work_with_WD/Work_with_WD_087.png
+.. |copy| image:: pics_Work_with_VD/Work_with_VD_087.png
 
-.. |крапки| image:: pics_Work_with_WD/Work_with_WD_090.png
+.. |крапки| image:: pics_Work_with_VD/Work_with_VD_090.png
 
-.. |filter| image:: pics_Work_with_WD/Work_with_WD_092.png
+.. |filter| image:: pics_Work_with_VD/Work_with_VD_092.png
 
-.. |plus| image:: pics_Work_with_WD/Work_with_WD_103.png
+.. |plus| image:: pics_Work_with_VD/Work_with_VD_103.png
 
-.. |minus| image:: pics_Work_with_WD/Work_with_WD_102.png
+.. |minus| image:: pics_Work_with_VD/Work_with_VD_102.png
 
-.. |Inbox| image:: pics_Work_with_WD/Work_with_WD_122.png
+.. |Inbox| image:: pics_Work_with_VD/Work_with_VD_122.png
 
-.. |Waiting| image:: pics_Work_with_WD/Work_with_WD_123.png
+.. |Waiting| image:: pics_Work_with_VD/Work_with_VD_123.png
 
-.. |Outbox| image:: pics_Work_with_WD/Work_with_WD_124.png
+.. |Outbox| image:: pics_Work_with_VD/Work_with_VD_124.png
 
-.. |Archive| image:: pics_Work_with_WD/Work_with_WD_125.png
+.. |Archive| image:: pics_Work_with_VD/Work_with_VD_125.png
 
-.. |Overdue| image:: pics_Work_with_WD/Work_with_WD_126.png
+.. |Overdue| image:: pics_Work_with_VD/Work_with_VD_126.png
 
-.. |Drafts| image:: pics_Work_with_WD/Work_with_WD_127.png
+.. |Drafts| image:: pics_Work_with_VD/Work_with_VD_127.png
 
-.. |Flash| image:: pics_Work_with_WD/Work_with_WD_128.png
+.. |Flash| image:: pics_Work_with_VD/Work_with_VD_128.png
 
-.. |планшет| image:: pics_Work_with_WD/Work_with_WD_135.png
+.. |планшет| image:: pics_Work_with_VD/Work_with_VD_135.png
 
-.. |дискета| image:: pics_Work_with_WD/Work_with_WD_180.png
+.. |дискета| image:: pics_Work_with_VD/Work_with_VD_180.png
 
-.. |condition| image:: pics_Work_with_WD/Work_with_WD_187.png 
+.. |condition| image:: pics_Work_with_VD/Work_with_VD_187.png 
 
 .. role:: red
 
@@ -93,7 +93,7 @@
 
 Cервіс WhiteDoc налічує кілька основних сутностей, доступ учасників до котрих на рівні акаунта регулюється адміністратором:
 
-.. image:: pics_Work_with_WD/Work_with_WD_001.png
+.. image:: pics_Work_with_VD/Work_with_VD_001.png
    :align: center
 
 * **Акаунт** [1]_
@@ -108,7 +108,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 При переході за вказаним посиланням відкриється вікно авторизації. Необхідно ввести Вашу електронну пошту, пароль користувача і натиснути **"Увійти"**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_002.png
+.. image:: pics_Work_with_VD/Work_with_VD_002.png
    :align: center
 
 За проставленої відмітки **"Запам'ятати мене"** вводити дані наступного разу самостійно вже не буде потреби (браузер це зробить автоматично).  
@@ -121,7 +121,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Після успішної авторизації відкриється інтерфейс сервісу WhiteDoc:
 
-.. image:: pics_Work_with_WD/Work_with_WD_003.png
+.. image:: pics_Work_with_VD/Work_with_VD_003.png
    :align: center
 
 1. Поточний мейлбокс, відносно якого виконується документообіг. Ви маєте можливість створити будь-яку кількість мейлбоксів та налаштувати доступ до них необхідним користувачам;
@@ -147,7 +147,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В журналі шаблонів (2) відображаються список шаблонів, в залежності від налаштованого рівня доступу та перебування користувача (1):
 
-.. image:: pics_Work_with_WD/Work_with_WD_011.png
+.. image:: pics_Work_with_VD/Work_with_VD_011.png
    :align: center
 
 * **"Мої шаблони"** відображає всі шаблони, до яких є доступ тільки у користувачів мейлбокса;
@@ -158,30 +158,30 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В створених шаблонах під кнопкою |трикрапка| знаходиться випадаючий список дій, які можливо виконати з готовим шаблоном:
 
-.. image:: pics_Work_with_WD/Work_with_WD_033.png
+.. image:: pics_Work_with_VD/Work_with_VD_033.png
    :align: center
 
-* **Редагувати** - відкриває форму для редагування шаблону (детальніше в розділі `Редагування шаблону <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#template-edit>`__); 
+* **Редагувати** - відкриває форму для редагування шаблону (детальніше в розділі `Редагування шаблону <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#template-edit>`__); 
 * **Копіювати uuid** - копіює унікальний ідентифікатор для зручної співпраці з колегами над одним шаблоном;
 * **Клонувати** - створює копію обраного шаблону з приставкою "Копія" в назву оригінального шаблону;
 * **Перенести** - встановлює місцерозташування шаблону в каталогах на рівні доступу, що вказаний в шаблоні (серед папок **"Мої шаблони"** чи **"Шаблони акаунту"**). В попап вікні можливо :underline:`створити` та :underline:`обрати` папку для зберігання шаблону:
 
-.. image:: pics_Work_with_WD/Work_with_WD_036.gif
+.. image:: pics_Work_with_VD/Work_with_VD_036.gif
    :align: center
    
 * **Перейменувати** - переіменування шаблону:
 
-.. image:: pics_Work_with_WD/Work_with_WD_034.gif
+.. image:: pics_Work_with_VD/Work_with_VD_034.gif
    :align: center
 
 * **Видалити** - видаляє шаблон (дію **"Видалити"** потрібно додатково підтверджувати):
 
-.. image:: pics_Work_with_WD/Work_with_WD_035.png
+.. image:: pics_Work_with_VD/Work_with_VD_035.png
    :align: center
 
 За допомогою кнопки **"Новий шаблон"** створюється новий шаблон в каталозі **"Мої шаблони"** (може також відображатись в **"Шаблони акаунта"** за встановленого рівня доступу). За допомогою функціоналу по створенню внутрішніх папок (кнопка **"Нова папка"**) можливо розробити структуру для зручної класифікації і пошуку потрібних шаблонів:  
 
-.. image:: pics_Work_with_WD/Work_with_WD_010.png
+.. image:: pics_Work_with_VD/Work_with_VD_010.png
    :align: center
 
 Пошук здійснюється серед усіх доступних шаблонів і виконується за "Назвою" чи "Описом" в шаблоні (обов'язкові поля). В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості шаблонів на сторінці журналу, кількість елементів в журналі, пейджинг.
@@ -191,7 +191,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для створення нової папки потрібно натиснути на кнопку **"Нова папка"**, після чого відкриється попап-вікно для введення назви папки:
 
-.. image:: pics_Work_with_WD/Work_with_WD_012.png
+.. image:: pics_Work_with_VD/Work_with_VD_012.png
    :align: center
 
 Папку з вказаною назвою можливо **"Зберегти"** чи **"Відмінити"** її створення.
@@ -203,12 +203,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для створення нового шаблону потрібно натиснути на кнопку **"Новий шаблон"**, яка відкриває форму для створення нового шаблону:
 
-.. image:: pics_Work_with_WD/Work_with_WD_013.png
+.. image:: pics_Work_with_VD/Work_with_VD_013.png
    :align: center
 
 Форма створення/редагування шаблону складається з блоків "Деталі шаблону і Властивості конверта" (1) та "Порядок опрацювання документа" (2):
 
-.. image:: pics_Work_with_WD/Work_with_WD_015.png
+.. image:: pics_Work_with_VD/Work_with_VD_015.png
    :align: center
 
 .. _template-details:
@@ -220,12 +220,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **1) Задати розташування шаблону:**
 
-.. image:: pics_Work_with_WD/Work_with_WD_016.png
+.. image:: pics_Work_with_VD/Work_with_VD_016.png
    :align: center
 
 В попап вікні можливо :underline:`створити` та :underline:`обрати` папку для зберігання шаблону:
 
-.. image:: pics_Work_with_WD/Work_with_WD_017.gif
+.. image:: pics_Work_with_VD/Work_with_VD_017.gif
    :align: center
 
 **2) Задати рівень доступу до шаблону:**
@@ -235,18 +235,18 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Доступ до шаблону може бути розширено до рівня акаунта чи публічного доступу:
 
-.. image:: pics_Work_with_WD/Work_with_WD_018.png
+.. image:: pics_Work_with_VD/Work_with_VD_018.png
    :align: center
 
 Вибір **Публічного** доступу обумовлює доступ до шаблону усіх користувачів сервісу WhiteDoc. Доступ до шаблону на рівні **Акаунту** є спільним для всіх мейлбоксів (можливо :underline:`створити` та :underline:`обрати` папку для зберігання шаблону на рівні акаунту):
 
-.. image:: pics_Work_with_WD/Work_with_WD_019.gif
+.. image:: pics_Work_with_VD/Work_with_VD_019.gif
    :align: center
 
 .. note::
    **"Зберегти"** шаблон та додати конверти (**"+Конверт"**) можливо після того, як будуть визначені отримувачі та їх дії з полями документів, що додані до конверта. Всі **Заповнювачі** повинні бути назначені на заповнення полів. Всі **Підписанти** повинні бути назначені на поля ЕЦП.
 
-   .. image:: pics_Work_with_WD/Work_with_WD_030.png
+   .. image:: pics_Work_with_VD/Work_with_VD_030.png
       :align: center
 
 .. _envelope-properties:
@@ -256,7 +256,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В шаблоні можливо одразу вказати "Тему" і "Повідомлення" конверта з документами (в цьому випадку всі конверти будуть створюватись з вказаною темою і повідомленням). Конверт обов'язково має строк чинності, який можливо змінити за бажанням (за замовчуванням 30 днів):
 
-.. image:: pics_Work_with_WD/Work_with_WD_020.png
+.. image:: pics_Work_with_VD/Work_with_VD_020.png
    :align: center
 
 .. note::
@@ -267,45 +267,43 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **2.2.3 Порядок опрацювання документа**
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-В опрацюванні документів приймають участь **Заповнювачі**, а також можуть приймати участь **Підписанти**.
+В шаблоні визначається роль учасника документообігу: **Заповнювач** чи **Підписант ЕЦП** (можливо також **Надіслати копію** для учасників, що не беруть безпосередньої участі в опрацюванні документів. Отримувач копії зможе відслідковувати зміну статуса отриманої копії конверта.
+
+.. image:: pics_Work_with_VD/Work_with_VD_189.png
+   :align: center
 
 .. note::
    Підписання документа відбувається лише після того, як документ повністю заповнений!
 
-"Відправником" завжди виступає мейлбокс, в якому створюється конверт. За допомогою іконки |олівець| потрібно вказати "Отримувача" (назва ролі **Заповнювача** за замовчуванням). Для пошуку мейлбокса одержувача потрібно ввести повний UUID мейлбокса контрагента або назву записаного контакта (детальніше про `"Контакти" <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#contacts>`__):
+"Відправником" завжди виступає мейлбокс, в якому створюється конверт. За допомогою іконки |олівець| потрібно вказати "Отримувача" (назва ролі **Заповнювача** за замовчуванням). Для пошуку мейлбокса одержувача потрібно ввести повний UUID мейлбокса контрагента або назву записаного контакта (детальніше про `"Контакти" <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#contacts>`__):
 
-.. image:: pics_Work_with_WD/Work_with_WD_021.gif
+.. image:: pics_Work_with_VD/Work_with_VD_021.gif
    :align: center
 
 .. hint::
    При додаванні учасника (одержувача чи підписанта) можливо не вказувати мейлбокс. Щоразу при створенні конверта за цим шаблоном потрібно буде вводити UUID мейлбокса контрагента. Такий підхід зручний для динамічної заміни учасників від одного конверта до іншого, створених на підставі одного шаблону.
 
-За потреби можливо додавати підписантів та інших одержувачів конверта (кнопки **"Додати одержувача"** та **"Додати підписанта"**):
+За потреби можливо додавати інших учасників документообігу (кнопка **"Додати учасника"**):
 
-.. image:: pics_Work_with_WD/Work_with_WD_023.png
+.. image:: pics_Work_with_VD/Work_with_VD_023.png
    :align: center
 
-При додаванні одержувача додатково можливо проставити відмітку для того, щоб **"Надіслати копію"** конверта цьому контрагенту (навпроти цього учасника проставляється відмітка). Для відправки "копії" не потрібно назначати роль на будь-яке з полей документа. Отримувач копії зможе відслідковувати зміну статуса отриманої копії конверта. При додаванні підписанта формується окремий блок з підписантами:
+За допомогою кнопки |мусорка| можливо видаляти своїх контрагентів. Дію **"Видалити"** потрібно додатково підтверджувати:
 
-.. image:: pics_Work_with_WD/Work_with_WD_024.png
+.. image:: pics_Work_with_VD/Work_with_VD_027.png
    :align: center
 
-За допомогою кнопки |мусорка| можливо видаляти контрагентів (**Заповнювачів** та **Підписантів**). Дію **"Видалити"** потрібно додатково підтверджувати:
+При видаленні останнього **Підписанта ЕЦП** система видає повідомлення:
 
-.. image:: pics_Work_with_WD/Work_with_WD_027.png
-   :align: center
-
-При видаленні останнього **Підписанта** система видає повідомлення:
-
-.. image:: pics_Work_with_WD/Work_with_WD_028.png
+.. image:: pics_Work_with_VD/Work_with_VD_028.png
    :align: center
 
 Окремо для кожної групи **Заповнювачів** та **Підписантів** можливо встановити порядок, в якому ці контрагенти зможуть взаємодіяти з конвертом. Для цього потрібно встановити відмітку **"Установити порядок"**: контрагенти будуть отримувати вхідні конверти по черзі (у вказаному порядку). Контрагенти автоматично пронумеруються в порядку їх додавання і з'явиться кнопка для їх перетягування для зміни порядку:
 
-.. image:: pics_Work_with_WD/Work_with_WD_025.png
+.. image:: pics_Work_with_VD/Work_with_VD_025.png
    :align: center
 
-.. image:: pics_Work_with_WD/Work_with_WD_026.gif
+.. image:: pics_Work_with_VD/Work_with_VD_026.gif
    :align: center
 
 **2.2.4 Документи**
@@ -313,7 +311,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Створення шаблону обов'язково включає в себе додавання документа (кнопки **"Додати документ"** та **"Додати зовнішній документ"**):
 
-.. image:: pics_Work_with_WD/Work_with_WD_029.png
+.. image:: pics_Work_with_VD/Work_with_VD_029.png
    :align: center
 
 В сервісі є два типи документів: структуровані |structed| та зовнішні |external|.
@@ -321,15 +319,15 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note::
    |external| **Зовнішній документ** призначений для внесення файлу одним з учасників документообігу. Допускається додавання файлу-вкладення в форматі pdf, doc, docx, xls, xlsx, xml, dbf, txt, rtf, png, jpg, jpeg, zip не більше 5МБ (загальний розмір конверта при цьому не повинен перевищувати 25 МБ). В зовнішній документ можливо додати поля "ЕЦП" (інші поля не підтримуються).
 
-   |structed| **Структурований документ** може включати в себе текст та `стандартні поля WhiteDoc <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#fields>`__ (детальніше за посиланням).
+   |structed| **Структурований документ** може включати в себе текст та `стандартні поля WhiteDoc <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
 
 В формі створення/редагування шаблону з документами через кнопку |трикрапкаВ| можливо виконати наступні дії:
 
-* **Редагувати** - перехід в форму редагування всіх документів шаблону (детальніше за `посиланням <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#doc-edit>`__);
+* **Редагувати** - перехід в форму редагування всіх документів шаблону (детальніше за `посиланням <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#doc-edit>`__);
 * **Клонувати** - створює копію обраного документа з приставкою "Копія" в назву оригінального документа;
 * **Видалити** - видаляє документ (дію **"Видалити"** потрібно додатково підтверджувати):
 
-.. image:: pics_Work_with_WD/Work_with_WD_037.png
+.. image:: pics_Work_with_VD/Work_with_VD_037.png
    :align: center
 
 .. _doc-edit:
@@ -339,67 +337,67 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для переходу в форму створення / редагування документів потрібно натиснути лівою кнопкою миші на документ або обрати дію **"Редагувати"** документ:
 
-.. image:: pics_Work_with_WD/Work_with_WD_040.png
+.. image:: pics_Work_with_VD/Work_with_VD_040.png
    :align: center
 
 Форму для редагування документів (вона є спільною для всіх документів на рівні шаблону) умовно можливо поділити на кілька структурних блоків:
 
-.. image:: pics_Work_with_WD/Work_with_WD_043.png
+.. image:: pics_Work_with_VD/Work_with_VD_043.png
    :align: center
 
 1. Кнопка додавання нового структурованого чи зовнішнього документа до шаблону (**"+Новий документ"**):
 
-.. image:: pics_Work_with_WD/Work_with_WD_044.png
+.. image:: pics_Work_with_VD/Work_with_VD_044.png
    :align: center
 
 1. Список документів в шаблоні (допомагає швидко переходити між документами/параграфами). За потреби панель можливо згорнути (|hide|) / розгорнути (|show|);
 2. Панель візуального редактора (`WYSIWYG <https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80>`__), за допомогою якої зручно в онлайн режимі працювати з оформленням документа (додавати параграфи, змінювати шрифти, форматувати текст, працювати з зображеннями, таблицями та посиланнями);
 3. Безпосередня форма самого документа;
-4. Вкладки для роботи з наповненням документа (`Полями <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#fields>`__), `Шаблоном/конвертом <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#template-details>`__ та `Правилами обрробки <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#doc-order-rules>`__;
+4. Вкладки для роботи з наповненням документа (`Полями <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#fields>`__), `Шаблоном/конвертом <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#template-details>`__ та `Правилами обрробки <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#doc-order-rules>`__;
 5. Кнопки для **"Відміни"** чи **"Збереження"** проведених всіх змін в документах.
 
 .. hint::
    За потреби можливо переглянути чи відредагувати раніше введені дані на етапі формування шаблону у відповідних вкладках (Шаблон та Обробка), не повертаючись в головну форму редагування шаблону:
 
-   .. image:: pics_Work_with_WD/Work_with_WD_047.png
+   .. image:: pics_Work_with_VD/Work_with_VD_047.png
       :align: center
 
-   .. image:: pics_Work_with_WD/Work_with_WD_048.png
+   .. image:: pics_Work_with_VD/Work_with_VD_048.png
       :align: center
 
 Кожен документ має назву, що редагується за допомогою кнопки |олівець| (після редагування потрібно підтвердити |галочка| чи відхилити |хрестик| зміни):
 
-.. image:: pics_Work_with_WD/Work_with_WD_055.gif
+.. image:: pics_Work_with_VD/Work_with_VD_055.gif
    :align: center
 
 Робота з наповненням документа базується на:
 
-.. image:: pics_Work_with_WD/Work_with_WD_049.png
+.. image:: pics_Work_with_VD/Work_with_VD_049.png
    :align: center
 
 1) роботі з текстом / таблицями / зображеннями за допомогою панелі візуального редактора - незмінна частина;
-2) додаванні `Полів <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#fields>`__, що повинні чи можуть бути заповнені учасниками документообігу.
+2) додаванні `Полів <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#fields>`__, що повинні чи можуть бути заповнені учасниками документообігу.
 
 .. note::
    |external| **Зовнішній документ** призначений для внесення файлу одним з учасників документообігу. Допускається додавання файлу-вкладення в форматі pdf, doc, docx, xls, xlsx, xml, dbf, txt, rtf, png, jpg, jpeg, zip не більше 5МБ (загальний розмір конверта при цьому не повинен перевищувати 25 МБ). В зовнішній документ можливо додати поля "ЕЦП" (інші поля не підтримуються).
 
-   |structed| **Структурований документ** може включати в себе текст та `стандартні поля WhiteDoc <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#fields>`__ (детальніше за посиланням).
+   |structed| **Структурований документ** може включати в себе текст та `стандартні поля WhiteDoc <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
 
 Зовнішній вигляд **Структурованого документа** не регламентовано. Не додавайте табличні елементи із зовнішніх джерел чи буфера пам'яті. Рекомендується створення таблиць і інших елементів, використовуючи функціонал конструктора документа.
 
-`Поля <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#fields>`__ можливо додавати в документ проставивши курсор в місце, де потрібно додати Поле:
+`Поля <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#fields>`__ можливо додавати в документ проставивши курсор в місце, де потрібно додати Поле:
 
-.. image:: pics_Work_with_WD/Work_with_WD_050.png
+.. image:: pics_Work_with_VD/Work_with_VD_050.png
    :align: center
 
 Або виконати перетягування поля в потрібну область форми документа (так званий "Drag-and-drop" спосіб):
 
-.. image:: pics_Work_with_WD/Work_with_WD_051.gif
+.. image:: pics_Work_with_VD/Work_with_VD_051.gif
    :align: center
 
-Після додавання поля з'являється попап вікно з властивостями нового поля, в яких обов'язково потрібно вказати назву, особу (детальніше в розділі `Поля <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#fields>`__) та **"Зберегти"** вказані параметри:
+Після додавання поля з'являється попап вікно з властивостями нового поля, в яких обов'язково потрібно вказати назву, особу (детальніше в розділі `Поля <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#fields>`__) та **"Зберегти"** вказані параметри:
 
-.. image:: pics_Work_with_WD/Work_with_WD_058.png
+.. image:: pics_Work_with_VD/Work_with_VD_058.png
    :align: center
 
 .. hint::
@@ -407,7 +405,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Властивості поля доступні до редагування - для цього потрібно обрати поле лівою кнопкою миші:
 
-.. image:: pics_Work_with_WD/Work_with_WD_052.png
+.. image:: pics_Work_with_VD/Work_with_VD_052.png
    :align: center
 
 Властивості різних типів Полів відрізняються і детальніше описані в наступному підрозділі.
@@ -440,12 +438,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    * "Опціональне" - |toggleON| - поле опціональне до заповнення; |toggleOFF| - поле обов'язкове до заповнення (за замовчуванням);
    * "Багатострочне" - |toggleON| - поле може бути багастоковим; |toggleOFF| - поле однострокове (за замовчуванням).
 
-.. image:: pics_Work_with_WD/Work_with_WD_059.png
+.. image:: pics_Work_with_VD/Work_with_VD_059.png
    :align: center
 
 Під час його **заповнення** вказуються можливості цього поля:
 
-.. image:: pics_Work_with_WD/Work_with_WD_160.png
+.. image:: pics_Work_with_VD/Work_with_VD_160.png
    :align: center
 
 **Число**
@@ -453,12 +451,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Число** - числове поле, що містить "Назву", "Роль" (учасник документообігу, що вводить значення), "Підказку" (текст, що виводиться користувачам), перемикач властивостей "Опціональне" (|toggleON| - поле опціональне до заповнення; |toggleOFF| - поле обов'язкове до заповнення (за замовчуванням)), "Точність" (кількість допустимих значень, що не будуть округлені автоматично при введенні), "Мінімальне" і "Максимальне" значення для введення
 
-.. image:: pics_Work_with_WD/Work_with_WD_060.png
-:align: center
+.. image:: pics_Work_with_VD/Work_with_VD_060.png
+   :align: center
 
 Під час його **заповнення** вказуються властивості цього поля:
 
-.. image:: pics_Work_with_WD/Work_with_WD_161.png
+.. image:: pics_Work_with_VD/Work_with_VD_161.png
    :align: center
 
 **Валюта**
@@ -469,12 +467,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note:: 
    В поле **"Валюта"** вводиться числове значення з двома числами після крапки.  
 
-.. image:: pics_Work_with_WD/Work_with_WD_061.png
+.. image:: pics_Work_with_VD/Work_with_VD_061.png
    :align: center
 
 Під час його **заповнення** вказуються властивості цього поля:
 
-.. image:: pics_Work_with_WD/Work_with_WD_162.png
+.. image:: pics_Work_with_VD/Work_with_VD_162.png
    :align: center
 
 **Дата та час**
@@ -485,31 +483,31 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    * "Опціональне" - |toggleON| - поле опціональне до заповнення; |toggleOFF| - поле обов'язкове до заповнення (за замовчуванням);
    * "Час" - |toggleON| - поле підхоплює лише час; |toggleOFF| - поле підхоплює дату та час (за замовчуванням).
 
-.. image:: pics_Work_with_WD/Work_with_WD_062.png
+.. image:: pics_Work_with_VD/Work_with_VD_062.png
    :align: center
 
 Під час **заповнення** поля потрібно натиснути на іконку календаря, обрати і підтвердити дату та час в зручному віконці:
 
-.. image:: pics_Work_with_WD/Work_with_WD_168.png
+.. image:: pics_Work_with_VD/Work_with_VD_168.png
    :align: center
 
 **Довідник**
 ******************************************************************************
 
-**Довідник** - поле, що потребує підключення налаштованого довідника (детальніше в розділі `Управління довідниками <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#dictionary>`__). Поле містить "Назву", "Роль" (учасник документообігу, що вводить значення), "Підказку" (текст, що виводиться користувачам), перемикачі властивостей:
+**Довідник** - поле, що потребує підключення налаштованого довідника (детальніше в розділі `Управління довідниками <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#dictionary>`__). Поле містить "Назву", "Роль" (учасник документообігу, що вводить значення), "Підказку" (текст, що виводиться користувачам), перемикачі властивостей:
 
 * "Опціональне" - |toggleON| - поле опціональне до заповнення; |toggleOFF| - поле обов'язкове до заповнення (за замовчуванням);
 * "Довільне значення" - |toggleON| - значення може бути довільним; |toggleOFF| - обране значення з довідника (за замовчуванням).
 
-.. image:: pics_Work_with_WD/Work_with_WD_098.png
+.. image:: pics_Work_with_VD/Work_with_VD_098.png
    :align: center
 
 Також у властивостях цього поля вказується "Довідник" (здійснюється пошук за назвою та описом довідника) та одна з його колонок (селектор):
 
-.. image:: pics_Work_with_WD/Work_with_WD_099.gif
+.. image:: pics_Work_with_VD/Work_with_VD_099.gif
    :align: center
 
-**Заповнення** цього поля виглядає, як поле-селектор. В запропонованому списку відображається лише 20 результатів і для пошуку потрібно почати вводити частину значення в поле. Вибір значення може впливати на інші поля, тому приклад заповнення повною мірою показано в описі `Лукап <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#lookup>`__ чи `Дублікат <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#duplicate>`__.
+**Заповнення** цього поля виглядає, як поле-селектор. В запропонованому списку відображається лише 20 результатів і для пошуку потрібно почати вводити частину значення в поле. Вибір значення може впливати на інші поля, тому приклад заповнення повною мірою показано в описі `Лукап <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#lookup>`__ чи `Дублікат <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#duplicate>`__.
 
 **Файл**
 ******************************************************************************
@@ -521,12 +519,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    * "Зображення" (допустимі формати: png, jpg, jpeg);
    * "Архів" (допустимі формати: zip).
 
-.. image:: pics_Work_with_WD/Work_with_WD_100.png
+.. image:: pics_Work_with_VD/Work_with_VD_100.png
    :align: center
 
 Під час його **заповнення** вказуються можливості цього поля:
 
-.. image:: pics_Work_with_WD/Work_with_WD_164.png
+.. image:: pics_Work_with_VD/Work_with_VD_164.png
    :align: center
    
 Отримувач документа для того, щоб переглянути файл повинен попередньо зберегти його локально.
@@ -538,18 +536,18 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Таблиця** - додає в документ :underline:`динамічну` таблицю. Динамічна таблиця дозволяє користувачу, на якого назначена роль "Відправника" чи "Заповнювача" створювати / заповнювати рядки (min=1, max=необмежено) відповідно до налаштувань шаблону. Таблиця містить "Назву", "Роль" (учасник документообігу, що вводить значення), "Колонки" (кількість колонок після додавання поля редагується в самій таблиці кнопками |plus| / |minus|).
 
-.. image:: pics_Work_with_WD/Work_with_WD_101.png
+.. image:: pics_Work_with_VD/Work_with_VD_101.png
    :align: center
 
 .. note:: 
    Перший рядок потребує внесення інших полів (введений текст виступає в якості константи). У внесених в таблицю полях повинна бути вказана роль, що відповідає ролі, що була вказана при додаванні таблиці:
    
-   .. image:: pics_Work_with_WD/Work_with_WD_113.png
+   .. image:: pics_Work_with_VD/Work_with_VD_113.png
       :align: center
 
 Під час **заповнення** таблиці, кнопками "+"/"-" можливо додавати рядки, визначеного шаблоном формату:
 
-.. image:: pics_Work_with_WD/Work_with_WD_165.png
+.. image:: pics_Work_with_VD/Work_with_VD_165.png
    :align: center
 
 **Підпис**
@@ -557,12 +555,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Підпис** - поле, що дозволяє користувачу поставити власний підпис. Поле містить "Назву", "Роль" (учасник документообігу, що вводить значення) і "Підказку" (текст, що виводиться користувачам).  
 
-.. image:: pics_Work_with_WD/Work_with_WD_104.png
+.. image:: pics_Work_with_VD/Work_with_VD_104.png
    :align: center
 
 **Заповнення** поля викликає вікно для введення електронно-чорнильного підпису:
 
-.. image:: pics_Work_with_WD/Work_with_WD_166.gif
+.. image:: pics_Work_with_VD/Work_with_VD_166.gif
    :align: center
 
 **Так/Ні**
@@ -570,12 +568,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Так/Ні** - поле вибору між двох опцій (за замовчуванням "так" чи "ні"). Поле містить "Назву", "Роль" (учасник документообігу, що обирає значення) і дві опції з текстом (мінімум 1 символ, максимум 50 символів), між якими обирає вказана роль ("Опція 1" та "Опція 2").  
 
-.. image:: pics_Work_with_WD/Work_with_WD_105.png
+.. image:: pics_Work_with_VD/Work_with_VD_105.png
    :align: center
 
 Під час **заповнення** поля потрібно обрати одну з опцій:
 
-.. image:: pics_Work_with_WD/Work_with_WD_167.png
+.. image:: pics_Work_with_VD/Work_with_VD_167.png
    :align: center
 
 .. _lookup:
@@ -592,20 +590,20 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. important::
    Без поля **Довідника** поле **Лукап** неактивне. Користувач не може заповнити пошукові поля, якщо у нього немає доступу до довідника, який використовується в полі довідника. Користувач може заповнити всі поля пошуку в конверті, зберегти цей конверт, як чернетку та надіслати пізніше. Якщо хтось змінить довідник (оновить записи, видалить стовпець або видалить довідник) перед тим, як користувач надішле чорновий конверт із полями пошуку, користувач побачить повідомлення про помилку з інформацією про зміни довідника. Якщо довідник було видалено, усі пошукові поля, які стосуються цього поля довідника, будуть виділені червоним кольором. 
 
-.. image:: pics_Work_with_WD/Work_with_WD_106.png
+.. image:: pics_Work_with_VD/Work_with_VD_106.png
    :align: center
 
 Поле не потребує **заповнення**, оскільки воно залежне від поля **Довідника** і значення обирається автоматично згідно налаштувань в шаблоні:
 
-.. image:: pics_Work_with_WD/Work_with_WD_169.gif
+.. image:: pics_Work_with_VD/Work_with_VD_169.gif
    :align: center
 
 **ЕЦП**
 ******************************************************************************
 
-**ЕЦП** - поле електронного цифрового підпису, що має специфічне рольове відношення (в якості ролі обираються заповнювачі-підписанти: детальніше в розділі `Порядок опрацювання документа <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#doc-order-rules>`__). Ви можете додати одне поле електронного підпису до одного документа для однієї ролі підписанта, інакше система сповістить про те, що:
+**ЕЦП** - поле електронного цифрового підпису, що має специфічне рольове відношення (в якості ролі обираються заповнювачі-підписанти: детальніше в розділі `Порядок опрацювання документа <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#doc-order-rules>`__). Ви можете додати одне поле електронного підпису до одного документа для однієї ролі підписанта, інакше система сповістить про те, що:
 
-.. image:: pics_Work_with_WD/Work_with_WD_108.png
+.. image:: pics_Work_with_VD/Work_with_VD_108.png
    :align: center
 
 .. hint::
@@ -625,13 +623,19 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Властивості поля містять "Назву", "Роль" (учасник-підписант), перемикач властивостей "Кваліфікований" (|toggleON| - допускається лише кваліфікований електронний підпис; |toggleOFF| - допускається будь-який підпис, що допускається сервісом (за замовчуванням)), додатково можливо вказати ЄДРПОУ, поставивши відповідну помітку:
 
-.. image:: pics_Work_with_WD/Work_with_WD_109.png
+.. image:: pics_Work_with_VD/Work_with_VD_109.png
    :align: center
+
+.. note::
+   Підписання документа відбувається лише після того, як документ повністю заповнений! Якщо порядок учасників протирічить цьому правилу, то система запропонує виправити порядок учасників: 
+
+   .. image:: pics_Work_with_VD/Work_with_VD_190.png
+      :align: center
 
 .. note::
    При видаленні ролі із призначеними на неї полями електронного підпису, потрібно повторно призначити поле іншій ролі, якщо така є. Якщо ні, роль буде видалена разом з полями.
 
-   .. image:: pics_Work_with_WD/Work_with_WD_110.png
+   .. image:: pics_Work_with_VD/Work_with_VD_110.png
       :align: center
 
 .. important::
@@ -644,7 +648,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Дублікат** - поле, що копіює значення іншого поля. Дублікат поля доступний лише тоді, коли шаблон містить принаймні одне поле, якому можна призначити дублікат. Дозволені поля для копіювання: текст, номер, валюта, дата та час, довідник, так / ні. Властивості поля містять "Назву"; "Документ" шаблону, в якому вже присутнє хоча б одне поле **Довідник**; "Дублікат поля" - вибір доступних полів в документі для дублювання (вибір за назвою):
 
-.. image:: pics_Work_with_WD/Work_with_WD_112.png
+.. image:: pics_Work_with_VD/Work_with_VD_112.png
    :align: center
 
 Щоб заповнити дублікат поля, потрібно заповнити значення в батьківському полі. Усі дублікати полів, які стосуються цього батьківського поля, заповнюються автоматично.
@@ -653,7 +657,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Поле не потребує **заповнення**, оскільки воно залежне від іншого поля і повністю копіює його значення:
 
-.. image:: pics_Work_with_WD/Work_with_WD_170.gif
+.. image:: pics_Work_with_VD/Work_with_VD_170.gif
    :align: center
 
 .. _template-edit:
@@ -663,7 +667,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Після того, як шаблон було збережено, його дані все ще можливо редагувати, сам шаблон можливо **"Видалити"**, **"Клонувати"**, **"Зберегти"** чи одразу створити за цим шаблоном конверт (**"+Конверт"**):
 
-.. image:: pics_Work_with_WD/Work_with_WD_031.png
+.. image:: pics_Work_with_VD/Work_with_VD_031.png
    :align: center
 
 .. _dictionary:
@@ -675,7 +679,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В журналі довідників (2) відображаються список довідників, в залежності від налаштованого рівня доступу та перебування користувача (1):
 
-.. image:: pics_Work_with_WD/Work_with_WD_063.png
+.. image:: pics_Work_with_VD/Work_with_VD_063.png
    :align: center
 
 В Провіднику (1) є три основні каталоги:
@@ -686,34 +690,34 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В журналі довідників у вигляді таблиці відображаються всі довідники обраного каталогу. По кожному довіднику відображається його "Назва", "Опис", "Кількість записів". Для роботи з довідниками передбачений наступний функціонал:
 
-.. image:: pics_Work_with_WD/Work_with_WD_067.png
+.. image:: pics_Work_with_VD/Work_with_VD_067.png
    :align: center
 
-* Створення нового довідника за допомогою одноіменної кнопки (**"Новий довідник"**); детальніше про `формування / редагування довідників <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#dictionary-edit>`__;
-* |pencil| - **редагувати довідник**; детальніше про `формування / редагування довідників <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#dictionary-edit>`__;
+* Створення нового довідника за допомогою одноіменної кнопки (**"Новий довідник"**); детальніше про `формування / редагування довідників <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#dictionary-edit>`__;
+* |pencil| - **редагувати довідник**; детальніше про `формування / редагування довідників <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#dictionary-edit>`__;
 * |download| - **експотувати довідник**;
 
 Експортувати можливо в CSV та XML форматах (вибір формату обирається після натискання на кнопку експорту). Після експортування авторизований користувач отримує на електронну пошту листа з посиланням на завантаження довідника:
 
-.. image:: pics_Work_with_WD/Work_with_WD_070.png
+.. image:: pics_Work_with_VD/Work_with_VD_070.png
    :align: center
 
-.. image:: pics_Work_with_WD/Work_with_WD_071.png
+.. image:: pics_Work_with_VD/Work_with_VD_071.png
    :align: center
 
 * |trash| - видалити довідник (дію **"Видалити"** потрібно додатково підтверджувати):
 
-.. image:: pics_Work_with_WD/Work_with_WD_072.png
+.. image:: pics_Work_with_VD/Work_with_VD_072.png
    :align: center
 
 Пошук здійснюється серед усіх доступних довідників і виконується за "Назвою" чи "Описом" довідника:
 
-.. image:: pics_Work_with_WD/Work_with_WD_068.gif
+.. image:: pics_Work_with_VD/Work_with_VD_068.gif
    :align: center
 
 В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості шаблонів на сторінці журналу, кількість елементів в журналі, пейджинг: 
 
-.. image:: pics_Work_with_WD/Work_with_WD_069.png
+.. image:: pics_Work_with_VD/Work_with_VD_069.png
    :align: center
 
 .. _dictionary-edit:
@@ -723,40 +727,40 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для переходу в форму :underline:`створення / редагування` довідника потрібно натиснути лівою кнопкою миші на кнопку **"Новий довідник"** або обрати дію **"Редагувати"** документ:
 
-.. image:: pics_Work_with_WD/Work_with_WD_073.png
+.. image:: pics_Work_with_VD/Work_with_VD_073.png
    :align: center
 
 Відкривається форма редагування довідника:
 
-.. image:: pics_Work_with_WD/Work_with_WD_080.png
+.. image:: pics_Work_with_VD/Work_with_VD_080.png
    :align: center
 
 В верхньому правому куті розташований функціонал для імпорту/експорту даних в/з довідника та кнопка виходу з режиму редагування (кнопка **"Закрити"**).
 
 **"Імпорт"** - імпортування зовнішнього CSV-файлу для внесення чи заміни даних в комірки відкритого довідника:
    
-.. image:: pics_Work_with_WD/Work_with_WD_081.gif
+.. image:: pics_Work_with_VD/Work_with_VD_081.gif
    :align: center
 
 З'явиться системне повідомлення про виконання операції, а процес оновлення довідника відображається в журналі замість кнопок по роботі з цим довідником:
 
-.. image:: pics_Work_with_WD/Work_with_WD_076.png
+.. image:: pics_Work_with_VD/Work_with_VD_076.png
    :align: center
 
-.. image:: pics_Work_with_WD/Work_with_WD_075.png
+.. image:: pics_Work_with_VD/Work_with_VD_075.png
    :align: center
 
 Після виконання операції оновлення користувачу відправляється сповіщення:
 
-.. image:: pics_Work_with_WD/Work_with_WD_077.png
+.. image:: pics_Work_with_VD/Work_with_VD_077.png
    :align: center
 
 **"Експорт"** - експортування довідника в CSV або XML файл (вибір формату обирається після натискання на кнопку експорту). Після експортування авторизований користувач отримує на електронну пошту листа з посиланням на завантаження довідника:
 
-.. image:: pics_Work_with_WD/Work_with_WD_078.png
+.. image:: pics_Work_with_VD/Work_with_VD_078.png
    :align: center
    
-.. image:: pics_Work_with_WD/Work_with_WD_071.png
+.. image:: pics_Work_with_VD/Work_with_VD_071.png
    :align: center
 
 .. note::
@@ -764,34 +768,34 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Доступ до довідника може бути розширено до рівня акаунта чи публічного доступу:
 
-.. image:: pics_Work_with_WD/Work_with_WD_079.png
+.. image:: pics_Work_with_VD/Work_with_VD_079.png
    :align: center
 
 Вибір **Публічного** доступу обумовлює доступ до довідника усіх користувачів сервісу WhiteDoc. Доступ до довідника на рівні **Акаунту** є спільним для всіх мейлбоксів.
 
 Для редагування "Назви" та "Опису" довідника використовується кнопка з іконкою |олівець|:
 
-.. image:: pics_Work_with_WD/Work_with_WD_082.gif
+.. image:: pics_Work_with_VD/Work_with_VD_082.gif
    :align: center
 
 Для внесення змін в довідник в "ручному" режимі передбачені кнопки додавання колонок і рядків (**"Додати колонку"** і **"Додати рядок"**):
 
-.. image:: pics_Work_with_WD/Work_with_WD_083.png
+.. image:: pics_Work_with_VD/Work_with_VD_083.png
    :align: center
 
 Для внесення даних в комірку потрібно помістити на неї курсор. Всі дані зберігаються автоматично, однак припинити введення можливо і за допомогою кнопок підтвердження |галочка2| чи відміни |хрестик2| внесення змін в комірку:
 
-.. image:: pics_Work_with_WD/Work_with_WD_084.png
+.. image:: pics_Work_with_VD/Work_with_VD_084.png
    :align: center
 
 При наведенні курсора на заголовок колонки табличної частини довідника (наприклад, колонка з назвою "Тип") з'являється функціонал:
 
-.. image:: pics_Work_with_WD/Work_with_WD_089.png
+.. image:: pics_Work_with_VD/Work_with_VD_089.png
    :align: center
 
 1. Зміни розташування колонок за допомогою "перетягування" мишкою за іконку |крапки|: 
 
-.. image:: pics_Work_with_WD/Work_with_WD_091.gif
+.. image:: pics_Work_with_VD/Work_with_VD_091.gif
    :align: center
 
 2. Фільтрування даних в колонці (|filter|) за відсутністю чи наявністю значення в комірці (**Порожній** / **Не порожній**) чи за додатково введеним значенням, яке: 
@@ -801,32 +805,32 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    * **Дорівнює** значенню з комірки
    * **Не дорівнює** значенню з комірки
 
-.. image:: pics_Work_with_WD/Work_with_WD_093.png
+.. image:: pics_Work_with_VD/Work_with_VD_093.png
    :align: center
 
 Якщо **"Додати"** такий параметр фільтрування, то відображаються лише ті рядки, що відповідають заданому правилу фільтрування, а така колонка позначається іншим кольором, відображається правило фільтрування:
 
-.. image:: pics_Work_with_WD/Work_with_WD_094.png
+.. image:: pics_Work_with_VD/Work_with_VD_094.png
    :align: center
 
 3. Редагування назви колонки (|олівець|):
 
-.. image:: pics_Work_with_WD/Work_with_WD_095.png
+.. image:: pics_Work_with_VD/Work_with_VD_095.png
    :align: center
 
 4. Видалити колонку (|мусорка|). Дію **"Видалити"** потрібно додатково підтверджувати:
 
-.. image:: pics_Work_with_WD/Work_with_WD_096.png
+.. image:: pics_Work_with_VD/Work_with_VD_096.png
    :align: center
 
 Для видалення рядків потрібно відмітити кілька чи всі рядки чекером і натиснути виникаючу кнопку **"Видалити рядки"**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_097.png
+.. image:: pics_Work_with_VD/Work_with_VD_097.png
    :align: center
 
 Кожен довідник має свій UUID, скопіювати який зручно за допомогою спеціальної кнопки |copy|:
 
-.. image:: pics_Work_with_WD/Work_with_WD_088.png
+.. image:: pics_Work_with_VD/Work_with_VD_088.png
    :align: center
 
 .. _contacts:
@@ -836,12 +840,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В списку контактів (1) представлені всі контакти поточного мейлбокса (вікно для перегляду/редагування/видалення (2) відкривається, якщо клікнути мишкою на одному з контактів):
 
-.. image:: pics_Work_with_WD/Work_with_WD_114.png
+.. image:: pics_Work_with_VD/Work_with_VD_114.png
    :align: center
 
 Реалізований "Пошук" вже введених контактів: в полі пошуку достатньо почати вводити ім'я контакту для того аби відфільтрувати список:
 
-.. image:: pics_Work_with_WD/Work_with_WD_117.png
+.. image:: pics_Work_with_VD/Work_with_VD_117.png
    :align: center
 
 .. _add-contact:
@@ -851,7 +855,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для того аби додати "Новий контакт" потрібно натиснути на кнопку **"+"**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_115.png
+.. image:: pics_Work_with_VD/Work_with_VD_115.png
    :align: center
 
 В контакті зазначаються наступні поля:
@@ -859,7 +863,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 * "Ім'я" - вводиться користувачем довільно (за цим ім'ям в подальшому буде відбуватись Пошук котакта);
 * "UUID мейлбокса" - унікальний ідентифікатор мейлбокса. По введеному/вставленому ідентифікатору відбувається автоматичний пошук -> знайдений мейлбокс разом з його нативною назвою (надається власником при створенні мейлбокса і не редагується в "Контактах") з'являється в підказках -> його потрібно обрати. Після цього можливо **"Зберегти контакт"**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_116.gif
+.. image:: pics_Work_with_VD/Work_with_VD_116.gif
    :align: center
 
 .. _contact-edit:
@@ -869,12 +873,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для редагування видалення контакту потрібно обрати (1) зі списку бажаний контакт та натиснути на кнопку **"Редагувати контакт"** чи **"Видалити контакт"**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_118.png
+.. image:: pics_Work_with_VD/Work_with_VD_118.png
    :align: center
 
 В формі редагування контакта можливо його переіменувати чи замінити його UUID мейлбокса (назва мейлбокса не редагується, а підтягується платформою):
 
-.. image:: pics_Work_with_WD/Work_with_WD_119.png
+.. image:: pics_Work_with_VD/Work_with_VD_119.png
    :align: center
 
 **"Видалити контакт"** можливо і під час його редагування. Також будь які зміни з контактами можливо **"Відмінити"**.
@@ -886,24 +890,24 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В журналі мейлбокса відображаються всі конверти, якими обмінюються користувачі на рівні цього мейлбокса:
 
-.. image:: pics_Work_with_WD/Work_with_WD_120.png
+.. image:: pics_Work_with_VD/Work_with_VD_120.png
    :align: center
 
 **Каталоги конвертів:**
 
-.. image:: pics_Work_with_WD/Work_with_WD_121.png
+.. image:: pics_Work_with_VD/Work_with_VD_121.png
    :align: center
 
 * |Inbox| **Вхідні** - каталог всіх вхідних конвертів (від контрагентів).
 * |Waiting| **Очікують** - каталог вхідних конвертів, документи якого чекають на дію (заповнення поля чи підписання) зі сторони користувачів з доступом до поточного мейлбокса.
 * |Outbox| **Вихідні** - каталог всіх відправлених контрагентам конвертів.
 * |Archive| **Архів** - каталог архівних оброблених конвертів (всі перенесені в архів конверти).
-* |Overdue| **Будуть прострочені** - каталог всіх ковертів, строк дії яких вже завершується (детальніше про `властивості конверта <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#envelope-properties>`__ при формуванні шаблону). 
+* |Overdue| **Будуть прострочені** - каталог всіх ковертів, строк дії яких вже завершується (детальніше про `властивості конверта <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#envelope-properties>`__ при формуванні шаблону). 
 * |Drafts| **Чернетки** - каталог створених, але не відправлених конвертів (конверти на етапі редагування). 
 
 Журнал документів відображає конверти з обраного каталога і має фільтри, що дозволяють гнучко відібрати конверти за вказаними параметрами:
 
-.. image:: pics_Work_with_WD/Work_with_WD_129.png
+.. image:: pics_Work_with_VD/Work_with_VD_129.png
    :align: center
 
 Конверти в журналі можливо відфільтрувати за:
@@ -915,70 +919,70 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Усі ці обрані параметри, що відбирають з усього каталогу шукані конверти можливо об'єднати в Ваш фільтр (|Flash|), що зберігається на рівні мейлбокса:
 
-.. image:: pics_Work_with_WD/Work_with_WD_130.png
+.. image:: pics_Work_with_VD/Work_with_VD_130.png
    :align: center
 
 В подальшому збережений фільтр дозволяє відібрати конверти за цими критеріями в один клік:
 
-.. image:: pics_Work_with_WD/Work_with_WD_148.png
+.. image:: pics_Work_with_VD/Work_with_VD_148.png
    :align: center
 
 Окрім цього можливо додатково кнопкою **"Додати фільтри"**, що будуть відбирати архівні конверти, конверти з вказаною датою прострочення, ярликами і вказаним напрямком (вхідні/вихідні конверти):
 
-.. image:: pics_Work_with_WD/Work_with_WD_131.png
+.. image:: pics_Work_with_VD/Work_with_VD_131.png
    :align: center
 
 Такі фільтри видаляються кнопкою |хрестик| чи забравши відмітку активації цього фільтра:
 
-.. image:: pics_Work_with_WD/Work_with_WD_132.png
+.. image:: pics_Work_with_VD/Work_with_VD_132.png
    :align: center
 
 Окрім гнучких фільтрів можливо здійснити пошук за темою вказаною в конверті (задається при створенні шаблону):
 
-.. image:: pics_Work_with_WD/Work_with_WD_133.png
+.. image:: pics_Work_with_VD/Work_with_VD_133.png
    :align: center
 
 Можливо **"Зформувати звіт по конвертам"**, що знаходяться в журналі (всі відфітровані конверти): 
 
-.. image:: pics_Work_with_WD/Work_with_WD_134.png
+.. image:: pics_Work_with_VD/Work_with_VD_134.png
    :align: center
 
 Після натискання на кнопку |планшет| по цих конвертах формується і відправляється на пошту звіт.
 
 В якості додаткових міток можливо використовувати ярлики. Ярлики можливо створювати окремо (1) чи вже безпосередньо при додаванні до конверта (2):
 
-.. image:: pics_Work_with_WD/Work_with_WD_136.png
+.. image:: pics_Work_with_VD/Work_with_VD_136.png
    :align: center
 
-.. image:: pics_Work_with_WD/Work_with_WD_137.png
+.. image:: pics_Work_with_VD/Work_with_VD_137.png
    :align: center
 
-.. image:: pics_Work_with_WD/Work_with_WD_171.png
+.. image:: pics_Work_with_VD/Work_with_VD_171.png
    :align: center
 
 Усі збережені ярлики відбирають всі конверти, що мають цей ярлик в один клік:
 
-.. image:: pics_Work_with_WD/Work_with_WD_146.png
+.. image:: pics_Work_with_VD/Work_with_VD_146.png
    :align: center
 
 Ярлики можливо **"Редагувати"** чи **"Видалити"** - при цьому вони автоматично видаляються / змінюються в конвертах:
 
-.. image:: pics_Work_with_WD/Work_with_WD_147.png
+.. image:: pics_Work_with_VD/Work_with_VD_147.png
    :align: center
 
 При встановленні відмітки біля конвертів окрім чіпляння ярликів відкриваються можливості:
 
 * **Масове підписання конвертів за допомогою ЕЦП**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_138.png
+.. image:: pics_Work_with_VD/Work_with_VD_138.png
    :align: center
 
 .. note::
-   Процес підписання конвертів детально описаний в розділі `Підписання <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#sign>`__.
+   Процес підписання конвертів детально описаний в розділі `Підписання <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#sign>`__.
 
 * **Масове архівування**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_140.png
+.. image:: pics_Work_with_VD/Work_with_VD_140.png
    :align: center
 
 .. attention::
@@ -986,12 +990,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Архівні конверти (з каталога **Архів**) можливо розархівувати (обернена операція):
 
-.. image:: pics_Work_with_WD/Work_with_WD_149.png
+.. image:: pics_Work_with_VD/Work_with_VD_149.png
    :align: center
 
 * **Масове завантаження**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_141.png
+.. image:: pics_Work_with_VD/Work_with_VD_141.png
    :align: center
 
 .. attention::
@@ -999,20 +1003,20 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 * **Масове додавання конвертів до ланцюжка** (вказує на зв'язок між конвертами):
 
-.. image:: pics_Work_with_WD/Work_with_WD_142.png
+.. image:: pics_Work_with_VD/Work_with_VD_142.png
    :align: center
 
-.. image:: pics_Work_with_WD/Work_with_WD_144.gif
+.. image:: pics_Work_with_VD/Work_with_VD_144.gif
    :align: center
 
 Детальніше про те, які конверти знаходяться в ланцюжку можливо дізнатись при перегляді конверта (блок **"Ланцюжок"**):
 
-.. image:: pics_Work_with_WD/Work_with_WD_150.png
+.. image:: pics_Work_with_VD/Work_with_VD_150.png
    :align: center
 
 Додані до ланцюжка конверти можливо видалити за допомогою кнопки, що відображається в якості оберненої операції перекресленою іконкою:
 
-.. image:: pics_Work_with_WD/Work_with_WD_145.png
+.. image:: pics_Work_with_VD/Work_with_VD_145.png
    :align: center
 
 .. attention::
@@ -1022,7 +1026,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості шаблонів на сторінці журналу, кількість елементів в журналі, пейджинг:
 
-.. image:: pics_Work_with_WD/Work_with_WD_069.png
+.. image:: pics_Work_with_VD/Work_with_VD_069.png
    :align: center
 
 .. _dashboard:
@@ -1032,7 +1036,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Інформаційна панель призначена для інформування користувача, своєчасної реакції і складається з 4 основних блоків:
 
-.. image:: pics_Work_with_WD/Work_with_WD_159.png
+.. image:: pics_Work_with_VD/Work_with_VD_159.png
    :align: center
 
 1) Лічильники конвертів в наступних статусах (клік на плитку відкриває вікно з усіма відібраними за статусом конвертами):
@@ -1055,7 +1059,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Сценарій** - спеціалізований алгоритм створення нового конверта документів на підставі конверта, що вже завершив документообіг і підпадає під правило, визначене в сценарії. Новий конверт, як і всі конверти сервісу формується згідно шаблону (шаблон вказується в сценарії). Саме в сценарії налаштовуються "тригери" (параметри), за якими він може бути активований, а сам зв'язок між конвертами при активованому шаблоні можливо зобразити в наступному простому прикладі:
 
-.. image:: pics_Work_with_WD/Work_with_WD_172.png
+.. image:: pics_Work_with_VD/Work_with_VD_172.png
    :align: center
 
 "Конверт №1" був створений на підставі "Шаблону №1" і вже завершив свій документообіг. **У користувача, у якого є доступ до "Шаблону №2" та сценарію з "Шаблоном №1" в якості джерела є можливість (кнопка при перегляді "Конверта №1") активувати сценарій** формування "Конверта №2" згідно "Шаблону №2" та перетворень в сценарії, що задані у вигляді XSLT правил конвертації.
@@ -1065,36 +1069,36 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В розділі **"Сценарії"** створюються та зберігаються всі доступні сценарії (публічні сценарії чи з доступом на рівні Акаунта / Мейлбокса):
 
-.. image:: pics_Work_with_WD/Work_with_WD_173.png
+.. image:: pics_Work_with_VD/Work_with_VD_173.png
    :align: center
 
 **Запустити сценарій** можливо двома шляхами:
 
-* Клік лівою кнопкою мишки на сценарій автоматично запускає створення конверта згідно ПЕРШОГО КРОКУ сценарію (детальніше про налаштування кроків в розділі `Створення / редагування сценаріїв <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#create-edit-scenario>`__).
+* Клік лівою кнопкою мишки на сценарій автоматично запускає створення конверта згідно ПЕРШОГО КРОКУ сценарію (детальніше про налаштування кроків в розділі `Створення / редагування сценаріїв <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#create-edit-scenario>`__).
 * Також запустити БУДЬ-ЯКИЙ ПІДХОДЯЩИЙ З КРОКІВ сценарію ЗАВЖДИ можливо при перегляді конверта, що завершив документообіг та його шаблон вказаний в налаштуваннях кроку сценарію (+ відповідність умовам сценарію, якщо такі вказані):
 
-.. image:: pics_Work_with_WD/Work_with_WD_186.png
+.. image:: pics_Work_with_VD/Work_with_VD_186.png
    :align: center
 
 .. hint::
    Якщо хтось із учасників відхиляє конверт (що стосується сценарію), ви можете повторно виконати крок із заповненого конверта з попереднього кроку.
 
-.. image:: pics_Work_with_WD/Work_with_WD_174.png
+.. image:: pics_Work_with_VD/Work_with_VD_174.png
    :align: center
 
-За допомогою кнопки **"Новий сценарій"** створюється новий сценарій серед "Моїх шаблонів" (детальніше в розділі `Створення / редагування сценаріїв <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#create-edit-scenario>`__). Пошук здійснюється серед усіх доступних сценаріїв мейлбокса і виконується за "Назвою", "Описом" (обов’язкові поля) чи "uuid" сценарію. В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості сценаріїв на сторінці журналу, кількість елементів в журналі, пейджинг.
+За допомогою кнопки **"Новий сценарій"** створюється новий сценарій серед "Моїх шаблонів" (детальніше в розділі `Створення / редагування сценаріїв <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#create-edit-scenario>`__). Пошук здійснюється серед усіх доступних сценаріїв мейлбокса і виконується за "Назвою", "Описом" (обов’язкові поля) чи "uuid" сценарію. В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості сценаріїв на сторінці журналу, кількість елементів в журналі, пейджинг.
 
 В створених сценаріях під кнопкою |трикрапка| знаходиться випадаючий список дій, які можливо виконати зі сценарієм:
 
-.. image:: pics_Work_with_WD/Work_with_WD_175.png
+.. image:: pics_Work_with_VD/Work_with_VD_175.png
    :align: center
 
-* **Редагувати** - відкриває форму для редагування сценарію (детальніше в розділі `Створення / редагування сценаріїв <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#create-edit-scenario>`__); 
+* **Редагувати** - відкриває форму для редагування сценарію (детальніше в розділі `Створення / редагування сценаріїв <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#create-edit-scenario>`__); 
 * **Копіювати uuid** - копіює унікальний ідентифікатор для зручної співпраці з колегами над одним сценарієм;
 * **Клонувати** - створює копію обраного сценарію з приставкою "Копія" в назву оригінального сценарію;
 * **Видалити** - видаляє сценарій (дію **"Видалити"** потрібно додатково підтверджувати):
 
-.. image:: pics_Work_with_WD/Work_with_WD_176.png
+.. image:: pics_Work_with_VD/Work_with_VD_176.png
    :align: center
 
 .. _create-edit-scenario:
@@ -1104,12 +1108,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для створення нового сценарію потрібно натиснути на кнопку **"Новий сценарій"**, яка відкриває форму для створення нового сценарію:
 
-.. image:: pics_Work_with_WD/Work_with_WD_177.png
+.. image:: pics_Work_with_VD/Work_with_VD_177.png
    :align: center
 
 Форма створення/редагування сценаріїв складається з блоків "Деталі сценарію" (1) та "Кроків сценарію" (2):
 
-.. image:: pics_Work_with_WD/Work_with_WD_178.png
+.. image:: pics_Work_with_VD/Work_with_VD_178.png
    :align: center
 
 В "Деталях сценарію" вказується рівень доступу до сценарію: "Мейлбокс" / "Акаунт" / "Публічний" (за замовчуванням "Мейлбокс"), а також "Назва" та "Опис", як обов’язкові поля (uuid генерується автоматично). 
@@ -1118,7 +1122,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 В "Призначеннях" вказуються повний "uuid шаблону", а його остання "Версія шаблону" вказується автоматично з можливістю обрати зі списку інші версії:
 
-.. image:: pics_Work_with_WD/Work_with_WD_181.png
+.. image:: pics_Work_with_VD/Work_with_VD_181.png
    :align: center
 
 .. important::
@@ -1127,24 +1131,24 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note::
    **"Зберегти"** сценарій можливо лише за умови, що всі його кроки збережені (кнопка |дискета|), всі поля кроків сценарію заповнені:
    
-   .. image:: pics_Work_with_WD/Work_with_WD_182.png
+   .. image:: pics_Work_with_VD/Work_with_VD_182.png
       :align: center
 
 Після успішного створення сценарію генерується його uuid, в формі редагування з'являються можливості **"Видалити"** та **"Клонувати"** сценарій:
 
-.. image:: pics_Work_with_WD/Work_with_WD_183.png
+.. image:: pics_Work_with_VD/Work_with_VD_183.png
    :align: center
 
 Один сценарій може містити безліч кроків - кожен налаштований крок може запускати новий конверт. На етапі створення чи редагування збільшити кількість кроків в сценарії можливо за допомогою кнопки **"Додати новий крок"**:
 
-.. image:: pics_Work_with_WD/Work_with_WD_179.png
+.. image:: pics_Work_with_VD/Work_with_VD_179.png
    :align: center
 
 В другому та подальших кроках потрібно заповнити блок "Джерело" - це два поля з шаблоном uuid та версією шаблону uuid попереднього кроку сценарію (допускається використання непов'язаних шаблонів). 
 
 Кожен наступний крок містить "Назву" (за замовчуванням "Новий крок"), в ньому вказуються дані шаблону-Джерела ("uuid шаблону" + "Версія шаблону"), дані конвертів якого будуть використовуватись для формування конверту на підставі шаблону-Призначення ("uuid шаблону" + "Версія шаблону"). "uuid шаблону" вказується повністю, а його остання "Версія шаблону" вказується автоматично з можливістю обрати зі списку інші версії:
 
-.. image:: pics_Work_with_WD/Work_with_WD_184.png
+.. image:: pics_Work_with_VD/Work_with_VD_184.png
    :align: center
 
 Після внесення змін в крок його потрібно зберегти (кнопка |дискета|); всі кроки можливо редагувати (кнопка |олівець|), також всі кроки окрім першого можливо видалити (кнопка |trash|).
@@ -1152,7 +1156,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note::
    **"Зберегти"** сценарій можливо лише за умови, що всі його кроки збережені (кнопка |дискета|), всі поля кроків сценарію заповнені:
    
-   .. image:: pics_Work_with_WD/Work_with_WD_182.png
+   .. image:: pics_Work_with_VD/Work_with_VD_182.png
       :align: center
 
 **7.1.1 Умови**
@@ -1160,12 +1164,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Додатково можливо використовувати **"Умову"** - це карта XSLT, яка буде застосована до Джерела кроку. За проставленої відмітки **"Умова"** в спеціальній зоні можливо задати умови, за якими можливе виконання даного кроку сценарію:
 
-.. image:: pics_Work_with_WD/Work_with_WD_185.png
+.. image:: pics_Work_with_VD/Work_with_VD_185.png
    :align: center
 
 Кроки сценарію, що мають умови відмічаються значком |condition|:
 
-.. image:: pics_Work_with_WD/Work_with_WD_188.png
+.. image:: pics_Work_with_VD/Work_with_VD_188.png
    :align: center
 
 На платформі представлені два типи Умов:
@@ -1206,7 +1210,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
        </xsl:template>
    </xsl:stylesheet>
 
-2) Умова "Один до багатьох" може застосовуватись ЛИШЕ до поля `динамічної таблиці <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#table-field>`__ всередині документа. Умова повинна повертати "true" або "false" для кожного рядка в таблиці у такому форматі:
+2) Умова "Один до багатьох" може застосовуватись ЛИШЕ до поля `динамічної таблиці <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#table-field>`__ всередині документа. Умова повинна повертати "true" або "false" для кожного рядка в таблиці у такому форматі:
 
 .. code:: xml
 
@@ -1260,17 +1264,6 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
          fieldset[@index=$row_index]/field[@name='field_name']/@value"/>
    </field>
 
-
-
-
-
-
-
-ToDo
-
-.. налаштування користувача
-
-
 .. _sign:
 
 **Підписання в сервісі WhiteDoc**
@@ -1279,27 +1272,6 @@ ToDo
 .. include:: /WhiteDoc/WD_Instructions/WD_signing/WD_signing.rst
    :start-after: .. початок блоку для Signing
    :end-before: .. кінець блоку для Signing
-
-ToDo
-
-.. камент
-
-   .. _pers-settings:
-
-   **Налаштування користувача**
-   ================================================
-
-   Клік на іконку користувача відкриває меню з налаштуваннями (налаштування акаунта/компаній описані в `інструкції "Особистого кабінету" <https://wiki.edin.ua/uk/latest/Personal_Cabinet/PCInstruction.html>`__):
-
-   .. image:: pics_Work_with_WD/Work_with_WD_08n.png
-      :align: center
-
-   .. image:: pics_Work_with_WD/Work_with_WD_09n.png
-      :align: center
-
-   В налаштуваннях користувача можуть відображатись підказки, відображаються дані сесії користувача. Користувач може доповнити/змінити інформацію про себе, змінити пароль (не менше 8 символів) чи додати/змінити фото профілю, що буде відображатись замість стандартної іконки.
-
-   
 
 ------------------------------
 
