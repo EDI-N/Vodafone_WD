@@ -3,9 +3,9 @@
 
 .. есть картинки с главной инструкции сервиса
 
-.. |accept| image:: pics_WD_user_profile/WD_user_profile_036.png
+.. |accept| image:: pics_VD_user_profile/VD_user_profile_036.png
 
-.. |denied| image:: pics_WD_user_profile/WD_user_profile_035.png
+.. |denied| image:: pics_VD_user_profile/VD_user_profile_035.png
 
 .. role:: red
 
@@ -36,10 +36,10 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Для налаштування користувацького профілю потрібно клікнути лівою кнопкою мишки на іконку користувача та обрати **"Профіль користувача"** (`налаштування панелі адміністратора <https://wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/WD_admin_panel.html>`__ описані в окремій інструкції):
 
-.. image:: pics_WD_user_profile/WD_user_profile_002.png
+.. image:: pics_VD_user_profile/VD_user_profile_002.png
    :align: center
 
-.. image:: pics_WD_user_profile/WD_user_profile_003.png
+.. image:: pics_VD_user_profile/VD_user_profile_003.png
    :align: center
 
 Після чого відкривається **"Інформація профілю"**, поділена на 4 вкладки: **"Налаштування"** / **"Запрошення"** / **"Сповіщення"** / **"Небезпечна зона"** (за замовчуванням відображається вкладка "Налаштування").
@@ -49,7 +49,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **1.1 Налаштування**
 -----------------------------------------------
 
-.. image:: pics_WD_user_profile/WD_user_profile_004.png
+.. image:: pics_VD_user_profile/VD_user_profile_004.png
    :align: center
 
 В **"Налаштуваннях"** відображаються:
@@ -58,15 +58,15 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 * **Налаштування паролю** - блок, що дозволяє **"Змінити пароль"** даного користувача, проставивши відповідну відмітку та вказавши поточний та новий пароль (з підтвердженням).
 * **Реєстрація** - блок, що дозволяє користувачу **"Зареєструвати особистий акаунт"** чи **"Зареєструвати акаунт компанії"** (детальніше про особливості `реєстрації в сервісі VodafoneDoc <https://wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/WD_registration.html>`__). Натиснувши відповідні кнопки можливо зареєструвати акаунт, погодившись в pop-up вікні з правилами та умовами користування сервісом та політикою конфіденційності (для акаунта компанії потрібно додатково ввести ІПН та назву мейлбокса):
 
-.. image:: pics_WD_user_profile/WD_user_profile_006.png
+.. image:: pics_VD_user_profile/VD_user_profile_006.png
    :align: center
 
-.. image:: pics_WD_user_profile/WD_user_profile_007.png
+.. image:: pics_VD_user_profile/VD_user_profile_007.png
    :align: center
 
 Всі зміни внесені у вкладці можливо **"Зберегти"** чи **"Відмінити"**:
 
-.. image:: pics_WD_user_profile/WD_user_profile_005.png
+.. image:: pics_VD_user_profile/VD_user_profile_005.png
    :align: center
 
 .. _invite:
@@ -76,12 +76,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 У вкладці відображаються активні запрошення до мейлбокса чи аккаунта інших користувачів сервісу (запрошення відправляються з `"Панелі адміністратора" - Користувачі <https://wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/WD_admin_panel.html#users>`__), що потребують рішення:
 
-.. image:: pics_WD_user_profile/WD_user_profile_030.png
+.. image:: pics_VD_user_profile/VD_user_profile_030.png
    :align: center
 
 Користувач може **Прийняти** |accept| чи **Відхилити** |denied| запрошення з указаного акаунта. Після того, як користувач прийме запрошення у нього відкриється доступ до стороннього акаунта чи мейлбокса з визначеними налаштуваннями:
 
-.. image:: pics_WD_user_profile/WD_user_profile_031.png
+.. image:: pics_VD_user_profile/VD_user_profile_031.png
    :align: center
 
 .. _notifications:
@@ -89,7 +89,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **1.3 Сповіщення**
 -----------------------------------------------
 
-.. image:: pics_WD_user_profile/WD_user_profile_034.png
+.. image:: pics_VD_user_profile/VD_user_profile_034.png
    :align: center
 
 У вкладці відображаються налаштування сповіщень **по електронній пошті** та **у системі**, що розбиті на наступні групи:
@@ -157,12 +157,12 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Небезпечна зона** - налаштування, що стосуються радикальних змін і в даному випадку ведуть до видалення конкретного користувача з сервісу VodafoneDoc.
 
-.. image:: pics_WD_user_profile/WD_user_profile_037.png
+.. image:: pics_VD_user_profile/VD_user_profile_037.png
    :align: center
 
 Дія видалення потребує підтвердження:
 
-.. image:: pics_WD_user_profile/WD_user_profile_038.png
+.. image:: pics_VD_user_profile/VD_user_profile_038.png
    :align: center
 
 Можливо зберегти акаунт та всі мейлбокси, поставивши відмітку у цьому вікні.
