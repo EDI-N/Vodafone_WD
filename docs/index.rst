@@ -10,8 +10,8 @@ Vodafone | Електронний документообіг для бізнес
 
 .. toctree::
    :maxdepth: 2
-   :caption: WhiteDoc
+   :caption: VodafoneDoc
 
-   WhiteDoc/WD_Instructions/WD_Instructions_list
+   VodafoneDoc/WD_Instructions/WD_Instructions_list
    API <https://wd-api.edin.ua/swagger-ui/#/>
 
