@@ -13,7 +13,7 @@
 .. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_002.png
    :align: center
 
-2) масове підписання документів у всіх обраних конвертах через журнал `Мейлбокса <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_WD.html#mailbox>`__:
+2) масове підписання документів у всіх обраних конвертах через журнал `Мейлбокса <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#mailbox>`__:
 
 .. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_001.png
    :align: center
