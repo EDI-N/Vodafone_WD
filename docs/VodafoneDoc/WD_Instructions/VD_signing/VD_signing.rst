@@ -1,5 +1,5 @@
 ########################################################################################################################
-Підписання в сервісі WhiteDoc
+Підписання в сервісі VodafoneDoc
 ########################################################################################################################
 
 .. початок блоку для Signing
@@ -10,29 +10,29 @@
 
 1) Підписання кожного документа вручну в формі конверта. В документі в блоці з обов'язковими підписами потрібно натиснути на поле, де Ви вказані підписантом:
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_002.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_002.png
    :align: center
 
-2) масове підписання документів у всіх обраних конвертах через журнал `Мейлбокса <https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/Work_with_VD.html#mailbox>`__:
+2) масове підписання документів у всіх обраних конвертах через журнал `Мейлбокса <https://wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#mailbox>`__:
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_001.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_001.png
    :align: center
 
 ------------------------------------
 
 Незалежно від обраного способу відкривається вікно підписання, що складається з 4 кроків і першим з яких є вибір файлового ключа ("Електронно цифровий ключ") чи токена ("Кваліфікований електронний підпис") за допомогою кнопки **"Обрати ключ"**:
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_003.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_003.png
    :align: center
 
 Далі потрібно ввести пароль і **"Відкрити ключ"**:
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_004.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_004.png
    :align: center
 
 В якості підтвердження корекності введеної пари ключ/пароль відображаються дані майбутнього підписанта. Потрібно натиснути кнопку **"Далі"**:
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_005.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_005.png
    :align: center
 
 .. hint::
@@ -40,7 +40,7 @@
 
 На третьому кроці показуються всі файли, що будуть створені/змінені в результаті підписання (їх можливо завантажити і перевірити) після натискання **"Далі"**: 
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_006.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_006.png
    :align: center
 
 В разі виявлених помилок / невідповідностей чи інших причин на цьому етапі можливо **"Вибрати інший підпис"**.
@@ -50,13 +50,13 @@
 
 В результаті відображаються деталі виконаної операції підписання:
 
-.. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_007.png
+.. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_007.png
    :align: center
 
 .. attention::
    Для способу підписання кожного документа вручну в формі конверта: для закріплення підпису на документах конверту його обов'язково потрібно **"Відправити"**!  
 
-   .. image:: /WhiteDoc/WD_Instructions/WD_signing/sign_008.png
+   .. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_008.png
       :align: center
 
 .. кінець блоку для Signing

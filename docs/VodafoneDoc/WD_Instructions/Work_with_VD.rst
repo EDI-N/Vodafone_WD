@@ -1269,7 +1269,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **Підписання в сервісі VodafoneDoc**
 =========================================================================================================================
 
-.. include:: /VodafoneDoc/WD_Instructions/WD_signing/WD_signing.rst
+.. include:: /VodafoneDoc/WD_Instructions/VD_signing/VD_signing.rst
    :start-after: .. початок блоку для Signing
    :end-before: .. кінець блоку для Signing
 
