@@ -4,7 +4,7 @@
 .. toctree::
    :maxdepth: 1
    
-   WD_registration
+   VD_registration
    Work_with_VD
    Work_with_Envelope
    VD_user_profile

@@ -13,7 +13,7 @@
 .. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_002.png
    :align: center
 
-2) масове підписання документів у всіх обраних конвертах через журнал `Мейлбокса <https://wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#mailbox>`__:
+2) масове підписання документів у всіх обраних конвертах через журнал `Мейлбокса <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#mailbox>`__:
 
 .. image:: /VodafoneDoc/WD_Instructions/VD_signing/sign_001.png
    :align: center
