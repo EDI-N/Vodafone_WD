@@ -12,6 +12,6 @@ Vodafone | Електронний документообіг для бізнес
    :maxdepth: 2
    :caption: VodafoneDoc
 
-   VodafoneDoc/WD_Instructions/WD_Instructions_list
+   VodafoneDoc/VD_Instructions/VD_Instructions_list
    API <https://wd-api.edin.ua/swagger-ui/#/>
 
