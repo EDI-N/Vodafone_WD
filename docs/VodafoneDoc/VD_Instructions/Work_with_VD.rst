@@ -154,14 +154,14 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 * **"Шаблони акаунта"** відображає всі шаблони, до яких є доступ тільки у користувачів акаунта;
 * **"Офіційні шаблони"** відображає всі шаблони, до яких є доступ у всіх користувачів сервісу VodafoneDoc. 
 
-Клік лівою кнопкою мишки на шаблон в журналі автоматично створює по ньому конверт (детальніше в розділі `Формування конверта <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_Envelope.html#create-envelope>`__).
+Клік лівою кнопкою мишки на шаблон в журналі автоматично створює по ньому конверт (детальніше в розділі `Формування конверта <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_Envelope.html#create-envelope>`__).
 
 В створених шаблонах під кнопкою |трикрапка| знаходиться випадаючий список дій, які можливо виконати з готовим шаблоном:
 
 .. image:: pics_Work_with_VD/Work_with_VD_033.png
    :align: center
 
-* **Редагувати** - відкриває форму для редагування шаблону (детальніше в розділі `Редагування шаблону <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#template-edit>`__); 
+* **Редагувати** - відкриває форму для редагування шаблону (детальніше в розділі `Редагування шаблону <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#template-edit>`__); 
 * **Копіювати uuid** - копіює унікальний ідентифікатор для зручної співпраці з колегами над одним шаблоном;
 * **Клонувати** - створює копію обраного шаблону з приставкою "Копія" в назву оригінального шаблону;
 * **Перенести** - встановлює місцерозташування шаблону в каталогах на рівні доступу, що вказаний в шаблоні (серед папок **"Мої шаблони"** чи **"Шаблони акаунту"**). В попап вікні можливо :underline:`створити` та :underline:`обрати` папку для зберігання шаблону:
@@ -275,7 +275,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note::
    Підписання документа відбувається лише після того, як документ повністю заповнений!
 
-"Відправником" завжди виступає мейлбокс, в якому створюється конверт. За допомогою іконки |олівець| потрібно вказати "Отримувача" (назва ролі **Заповнювача** за замовчуванням). Для пошуку мейлбокса одержувача потрібно ввести повний UUID мейлбокса контрагента або назву записаного контакта (детальніше про `"Контакти" <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#contacts>`__):
+"Відправником" завжди виступає мейлбокс, в якому створюється конверт. За допомогою іконки |олівець| потрібно вказати "Отримувача" (назва ролі **Заповнювача** за замовчуванням). Для пошуку мейлбокса одержувача потрібно ввести повний UUID мейлбокса контрагента або назву записаного контакта (детальніше про `"Контакти" <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#contacts>`__):
 
 .. image:: pics_Work_with_VD/Work_with_VD_021.gif
    :align: center
@@ -319,11 +319,11 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note::
    |external| **Зовнішній документ** призначений для внесення файлу одним з учасників документообігу. Допускається додавання файлу-вкладення в форматі pdf, doc, docx, xls, xlsx, xml, dbf, txt, rtf, png, jpg, jpeg, zip не більше 5МБ (загальний розмір конверта при цьому не повинен перевищувати 25 МБ). В зовнішній документ можливо додати поля "ЕЦП" (інші поля не підтримуються).
 
-   |structed| **Структурований документ** може включати в себе текст та `стандартні поля Vodafone Doc <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
+   |structed| **Структурований документ** може включати в себе текст та `стандартні поля Vodafone Doc <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
 
 В формі створення/редагування шаблону з документами через кнопку |трикрапкаВ| можливо виконати наступні дії:
 
-* **Редагувати** - перехід в форму редагування всіх документів шаблону (детальніше за `посиланням <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#doc-edit>`__);
+* **Редагувати** - перехід в форму редагування всіх документів шаблону (детальніше за `посиланням <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#doc-edit>`__);
 * **Клонувати** - створює копію обраного документа з приставкою "Копія" в назву оригінального документа;
 * **Видалити** - видаляє документ (дію **"Видалити"** потрібно додатково підтверджувати):
 
@@ -353,7 +353,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 1. Список документів в шаблоні (допомагає швидко переходити між документами/параграфами). За потреби панель можливо згорнути (|hide|) / розгорнути (|show|);
 2. Панель візуального редактора (`WYSIWYG <https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80>`__), за допомогою якої зручно в онлайн режимі працювати з оформленням документа (додавати параграфи, змінювати шрифти, форматувати текст, працювати з зображеннями, таблицями та посиланнями);
 3. Безпосередня форма самого документа;
-4. Вкладки для роботи з наповненням документа (`Полями <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__), `Шаблоном/конвертом <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#template-details>`__ та `Правилами обрробки <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#doc-order-rules>`__;
+4. Вкладки для роботи з наповненням документа (`Полями <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__), `Шаблоном/конвертом <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#template-details>`__ та `Правилами обрробки <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#doc-order-rules>`__;
 5. Кнопки для **"Відміни"** чи **"Збереження"** проведених всіх змін в документах.
 
 .. hint::
@@ -376,16 +376,16 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    :align: center
 
 1) роботі з текстом / таблицями / зображеннями за допомогою панелі візуального редактора - незмінна частина;
-2) додаванні `Полів <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__, що повинні чи можуть бути заповнені учасниками документообігу.
+2) додаванні `Полів <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__, що повинні чи можуть бути заповнені учасниками документообігу.
 
 .. note::
    |external| **Зовнішній документ** призначений для внесення файлу одним з учасників документообігу. Допускається додавання файлу-вкладення в форматі pdf, doc, docx, xls, xlsx, xml, dbf, txt, rtf, png, jpg, jpeg, zip не більше 5МБ (загальний розмір конверта при цьому не повинен перевищувати 25 МБ). В зовнішній документ можливо додати поля "ЕЦП" (інші поля не підтримуються).
 
-   |structed| **Структурований документ** може включати в себе текст та `стандартні поля Vodafone Doc <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
+   |structed| **Структурований документ** може включати в себе текст та `стандартні поля Vodafone Doc <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
 
 Зовнішній вигляд **Структурованого документа** не регламентовано. Не додавайте табличні елементи із зовнішніх джерел чи буфера пам'яті. Рекомендується створення таблиць і інших елементів, використовуючи функціонал конструктора документа.
 
-`Поля <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__ можливо додавати в документ проставивши курсор в місце, де потрібно додати Поле:
+`Поля <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__ можливо додавати в документ проставивши курсор в місце, де потрібно додати Поле:
 
 .. image:: pics_Work_with_VD/Work_with_VD_050.png
    :align: center
@@ -395,7 +395,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. image:: pics_Work_with_VD/Work_with_VD_051.gif
    :align: center
 
-Після додавання поля з'являється попап вікно з властивостями нового поля, в яких обов'язково потрібно вказати назву, особу (детальніше в розділі `Поля <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__) та **"Зберегти"** вказані параметри:
+Після додавання поля з'являється попап вікно з властивостями нового поля, в яких обов'язково потрібно вказати назву, особу (детальніше в розділі `Поля <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__) та **"Зберегти"** вказані параметри:
 
 .. image:: pics_Work_with_VD/Work_with_VD_058.png
    :align: center
@@ -494,7 +494,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **Довідник**
 ******************************************************************************
 
-**Довідник** - поле, що потребує підключення налаштованого довідника (детальніше в розділі `Управління довідниками <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#dictionary>`__). Поле містить "Назву", "Роль" (учасник документообігу, що вводить значення), "Підказку" (текст, що виводиться користувачам), перемикачі властивостей:
+**Довідник** - поле, що потребує підключення налаштованого довідника (детальніше в розділі `Управління довідниками <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#dictionary>`__). Поле містить "Назву", "Роль" (учасник документообігу, що вводить значення), "Підказку" (текст, що виводиться користувачам), перемикачі властивостей:
 
 * "Опціональне" - |toggleON| - поле опціональне до заповнення; |toggleOFF| - поле обов'язкове до заповнення (за замовчуванням);
 * "Довільне значення" - |toggleON| - значення може бути довільним; |toggleOFF| - обране значення з довідника (за замовчуванням).
@@ -507,7 +507,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. image:: pics_Work_with_VD/Work_with_VD_099.gif
    :align: center
 
-**Заповнення** цього поля виглядає, як поле-селектор. В запропонованому списку відображається лише 20 результатів і для пошуку потрібно почати вводити частину значення в поле. Вибір значення може впливати на інші поля, тому приклад заповнення повною мірою показано в описі `Лукап <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#lookup>`__ чи `Дублікат <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#duplicate>`__.
+**Заповнення** цього поля виглядає, як поле-селектор. В запропонованому списку відображається лише 20 результатів і для пошуку потрібно почати вводити частину значення в поле. Вибір значення може впливати на інші поля, тому приклад заповнення повною мірою показано в описі `Лукап <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#lookup>`__ чи `Дублікат <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#duplicate>`__.
 
 **Файл**
 ******************************************************************************
@@ -601,7 +601,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **ЕЦП**
 ******************************************************************************
 
-**ЕЦП** - поле електронного цифрового підпису, що має специфічне рольове відношення (в якості ролі обираються заповнювачі-підписанти: детальніше в розділі `Порядок опрацювання документа <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#doc-order-rules>`__). Ви можете додати одне поле електронного підпису до одного документа для однієї ролі підписанта, інакше система сповістить про те, що:
+**ЕЦП** - поле електронного цифрового підпису, що має специфічне рольове відношення (в якості ролі обираються заповнювачі-підписанти: детальніше в розділі `Порядок опрацювання документа <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#doc-order-rules>`__). Ви можете додати одне поле електронного підпису до одного документа для однієї ролі підписанта, інакше система сповістить про те, що:
 
 .. image:: pics_Work_with_VD/Work_with_VD_108.png
    :align: center
@@ -693,8 +693,8 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. image:: pics_Work_with_VD/Work_with_VD_067.png
    :align: center
 
-* Створення нового довідника за допомогою одноіменної кнопки (**"Новий довідник"**); детальніше про `формування / редагування довідників <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#dictionary-edit>`__;
-* |pencil| - **редагувати довідник**; детальніше про `формування / редагування довідників <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#dictionary-edit>`__;
+* Створення нового довідника за допомогою одноіменної кнопки (**"Новий довідник"**); детальніше про `формування / редагування довідників <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#dictionary-edit>`__;
+* |pencil| - **редагувати довідник**; детальніше про `формування / редагування довідників <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#dictionary-edit>`__;
 * |download| - **експотувати довідник**;
 
 Експортувати можливо в CSV та XML форматах (вибір формату обирається після натискання на кнопку експорту). Після експортування авторизований користувач отримує на електронну пошту листа з посиланням на завантаження довідника:
@@ -902,7 +902,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 * |Waiting| **Очікують** - каталог вхідних конвертів, документи якого чекають на дію (заповнення поля чи підписання) зі сторони користувачів з доступом до поточного мейлбокса.
 * |Outbox| **Вихідні** - каталог всіх відправлених контрагентам конвертів.
 * |Archive| **Архів** - каталог архівних оброблених конвертів (всі перенесені в архів конверти).
-* |Overdue| **Будуть прострочені** - каталог всіх ковертів, строк дії яких вже завершується (детальніше про `властивості конверта <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#envelope-properties>`__ при формуванні шаблону). 
+* |Overdue| **Будуть прострочені** - каталог всіх ковертів, строк дії яких вже завершується (детальніше про `властивості конверта <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#envelope-properties>`__ при формуванні шаблону). 
 * |Drafts| **Чернетки** - каталог створених, але не відправлених конвертів (конверти на етапі редагування). 
 
 Журнал документів відображає конверти з обраного каталога і має фільтри, що дозволяють гнучко відібрати конверти за вказаними параметрами:
@@ -978,7 +978,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    :align: center
 
 .. note::
-   Процес підписання конвертів детально описаний в розділі `Підписання <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#sign>`__.
+   Процес підписання конвертів детально описаний в розділі `Підписання <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#sign>`__.
 
 * **Масове архівування**:
 
@@ -999,7 +999,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
    :align: center
 
 .. attention::
-   **"Завантажити конверти"** можливо лише після завершення документообігу! Детальніше про `Завантаження конвертів <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_Envelope.html#envelope-download>`__ за посиланням.
+   **"Завантажити конверти"** можливо лише після завершення документообігу! Детальніше про `Завантаження конвертів <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_Envelope.html#envelope-download>`__ за посиланням.
 
 * **Масове додавання конвертів до ланцюжка** (вказує на зв'язок між конвертами):
 
@@ -1074,7 +1074,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 **Запустити сценарій** можливо двома шляхами:
 
-* Клік лівою кнопкою мишки на сценарій автоматично запускає створення конверта згідно ПЕРШОГО КРОКУ сценарію (детальніше про налаштування кроків в розділі `Створення / редагування сценаріїв <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#create-edit-scenario>`__).
+* Клік лівою кнопкою мишки на сценарій автоматично запускає створення конверта згідно ПЕРШОГО КРОКУ сценарію (детальніше про налаштування кроків в розділі `Створення / редагування сценаріїв <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#create-edit-scenario>`__).
 * Також запустити БУДЬ-ЯКИЙ ПІДХОДЯЩИЙ З КРОКІВ сценарію ЗАВЖДИ можливо при перегляді конверта, що завершив документообіг та його шаблон вказаний в налаштуваннях кроку сценарію (+ відповідність умовам сценарію, якщо такі вказані):
 
 .. image:: pics_Work_with_VD/Work_with_VD_186.png
@@ -1086,14 +1086,14 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. image:: pics_Work_with_VD/Work_with_VD_174.png
    :align: center
 
-За допомогою кнопки **"Новий сценарій"** створюється новий сценарій серед "Моїх шаблонів" (детальніше в розділі `Створення / редагування сценаріїв <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#create-edit-scenario>`__). Пошук здійснюється серед усіх доступних сценаріїв мейлбокса і виконується за "Назвою", "Описом" (обов’язкові поля) чи "uuid" сценарію. В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості сценаріїв на сторінці журналу, кількість елементів в журналі, пейджинг.
+За допомогою кнопки **"Новий сценарій"** створюється новий сценарій серед "Моїх шаблонів" (детальніше в розділі `Створення / редагування сценаріїв <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#create-edit-scenario>`__). Пошук здійснюється серед усіх доступних сценаріїв мейлбокса і виконується за "Назвою", "Описом" (обов’язкові поля) чи "uuid" сценарію. В правому нижньому куті розташований функціонал переходу між сторінками, на вказану сторінку журналу, вибір кількості сценаріїв на сторінці журналу, кількість елементів в журналі, пейджинг.
 
 В створених сценаріях під кнопкою |трикрапка| знаходиться випадаючий список дій, які можливо виконати зі сценарієм:
 
 .. image:: pics_Work_with_VD/Work_with_VD_175.png
    :align: center
 
-* **Редагувати** - відкриває форму для редагування сценарію (детальніше в розділі `Створення / редагування сценаріїв <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#create-edit-scenario>`__); 
+* **Редагувати** - відкриває форму для редагування сценарію (детальніше в розділі `Створення / редагування сценаріїв <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#create-edit-scenario>`__); 
 * **Копіювати uuid** - копіює унікальний ідентифікатор для зручної співпраці з колегами над одним сценарієм;
 * **Клонувати** - створює копію обраного сценарію з приставкою "Копія" в назву оригінального сценарію;
 * **Видалити** - видаляє сценарій (дію **"Видалити"** потрібно додатково підтверджувати):
@@ -1210,7 +1210,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
        </xsl:template>
    </xsl:stylesheet>
 
-2) Умова "Один до багатьох" може застосовуватись ЛИШЕ до поля `динамічної таблиці <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#table-field>`__ всередині документа. Умова повинна повертати "true" або "false" для кожного рядка в таблиці у такому форматі:
+2) Умова "Один до багатьох" може застосовуватись ЛИШЕ до поля `динамічної таблиці <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#table-field>`__ всередині документа. Умова повинна повертати "true" або "false" для кожного рядка в таблиці у такому форматі:
 
 .. code:: xml
 
@@ -1269,7 +1269,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 **Підписання в сервісі VodafoneDoc**
 =========================================================================================================================
 
-.. include:: /VodafoneDoc/WD_Instructions/VD_signing/VD_signing.rst
+.. include:: /VodafoneDoc/VD_Instructions/VD_signing/VD_signing.rst
    :start-after: .. початок блоку для Signing
    :end-before: .. кінець блоку для Signing
 

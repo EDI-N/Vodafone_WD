@@ -65,43 +65,43 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 Для створення конверта потрібно мати підготовлений шаблон згідно якого і буде створено конверт.
 
 .. tip::
-    Перед початком роботи з конвертами рекомендовано ознайомитись з інструкцією по роботі з `шаблонами <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#template>`__.
+    Перед початком роботи з конвертами рекомендовано ознайомитись з інструкцією по роботі з `шаблонами <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#template>`__.
 
 Створюється конверт за допомогою кнопки **"Новий конверт"** (відображається в правому верхньому куті у всіх основних розділах сервісу):
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_001.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_030.png
    :align: center
 
 Після чого в попап вікні потрібно обрати шаблон в зручний для Вас спосіб:
 
-* з нещодавно використаних;
+* з нещодавно використаних чи рекомендованих;
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_002.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_029.png
    :align: center
 
 * за номером UUID:
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_003.gif
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_031.gif
    :align: center
 
 * з бібліотеки шаблонів:
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_004.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_032.png
    :align: center
 
 Після чого згідно шаблону автоматично створюється конверт (чернетка) разом з документами і відкривається форма для його заповнення (можуть бути випадки, коли створений конверт не потребує заповнення зі сторони відправника):
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_005.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_033.png
    :align: center
 
 Форма конверта складається з деталей конверта та самих документів (2), що створюються згідно шаблону. В лівій частині екрану є зручний показчик перебування (1). Конверт-чернетку можливо **"Закрити"** в будь-який момент чи **"Зберегти"** (3), якщо в нього заповнені поля "Тема" та "Повідомлення". Після збереження чернетки з'являється кнопка для її видалення (**"Видалити"**).
 
 .. hint::
-    В збереженій чернетці можливо обмінюватись коментарями |comment| (`детальніше про функціонал Коментарів <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_Envelope.html#comments>`__)
+    В збереженій чернетці можливо обмінюватись коментарями |comment| (`детальніше про функціонал Коментарів <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_Envelope.html#comments>`__)
 
 В правому нижньому куті відображається кнопка (4) (**"Далі"** чи **"Відправити"**), що одночасно інформує про заповненість конверта (готовність до відправки) та є підказкою, що вказує на необхідність заповнення конкретних полів в документах конверта:
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_006.gif
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_034.gif
    :align: center
 
 В сервісі є два типи документів: структуровані |structed| та зовнішні |external|.
@@ -109,16 +109,16 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 .. note::
    |external| **Зовнішній документ** призначений для внесення файлу одним з учасників документообігу. Допускається додавання файлу-вкладення в форматі pdf, doc, docx, xls, xlsx, xml, dbf, txt, rtf, png, jpg, jpeg, zip не більше 5МБ (загальний розмір конверта при цьому не повинен перевищувати 25 МБ). В зовнішній документ можливо додати поля "ЕЦП" (інші поля не підтримуються).
 
-   |structed| **Структурований документ** може включати в себе текст та `стандартні поля Vodafone Doc <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/WD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
+   |structed| **Структурований документ** може включати в себе текст та `стандартні поля Vodafone Doc <https://vodafone-wd-wiki.edin.ua/uk/latest/VodafoneDoc/VD_Instructions/Work_with_VD.html#fields>`__ (детальніше за посиланням).
 
 Після того, як всі обов'язкові поля будуть заповнені і конверт буде готовий до відправки кнопка **"Далі"** міняється на **"Відправити"**:
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_007.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_036.png
    :align: center
 
 При натисканні на **"Відправити"** потрібно підтвердити дію відправки:
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_008.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_035.png
    :align: center
 
 Відправлений конверт змінює свій статус на "В обробці", показується наступний порядок обробки конверта, а також є можливість одразу начіпити на конверт **"Новий ярлик"**:
@@ -128,7 +128,7 @@ WEB сервісом підтримуються **Google Chrome** та **Safari*
 
 Також у формі відправленого конверта можливо ознайомитись і експортувати в PDF **"Протокол подій"** (|clock|) - усіх дій, виконаних контрагентами з цим конвертом:
 
-.. image:: pics_Work_with_Envelope/Work_with_Envelope_012.png
+.. image:: pics_Work_with_Envelope/Work_with_Envelope_037.png
    :align: center
 
 Після того, як документообіг **"Завершено"** (статус конверта) в формі перегляду конверта відображається кнопка |arrow| **"Завантажити конверт"**.

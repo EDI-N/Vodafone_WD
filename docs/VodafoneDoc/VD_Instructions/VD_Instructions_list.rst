@@ -2,7 +2,7 @@
 ##################
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    VD_registration
    Work_with_VD
